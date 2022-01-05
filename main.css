@@ -54,7 +54,7 @@ img{
 
 /* header */
 .header{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("images/banner-img.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("images/hinh1.jpg") center/cover no-repeat;
     min-height: 100vh;
     color: #fff;
     padding: 25px;
@@ -76,13 +76,13 @@ img{
     color: var(--yellow);
 }
 .head-bottom{
-    flex: 1;
+    
     text-align: center;
     width: 80vw;
     margin: 0 auto;
 }
 .head-bottom h2{
-    padding: 22px 0;
+    padding-top: 5px 0;
     font-size: 45px;
     border-bottom: 1px solid #fff;
 }
